@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">travail03</string>
+    <string-array name="limites">
+        <item>30</item>
+        <item>50</item>
+        <item>70</item>
+        <item>100</item>
+    </string-array>
+</resources>
